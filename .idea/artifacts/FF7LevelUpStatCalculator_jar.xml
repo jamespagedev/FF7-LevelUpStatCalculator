@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="FF7LevelUpStatCalculator:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/FF7LevelUpStatCalculator_jar</output-path>
+    <root id="archive" name="FF7LevelUpStatCalculator.jar">
+      <element id="module-output" name="FF7LevelUpStatCalculator" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/SupportFiles/commons-lang3-3.5/commons-lang3-3.5.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

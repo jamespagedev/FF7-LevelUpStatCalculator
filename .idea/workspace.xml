@@ -1,0 +1,1036 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FF7LevelUpStatCalculator:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7216ee45-956b-45e1-a3c0-828b159058cc" name="Default" comment="" />
+    <ignored path="FF7LevelUpStatCalculator.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/FF7LevelUpStatCalculator$StartGuiTest.coverage" NAME="StartGuiTest Coverage Results" MODIFIED="1492192743865" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="FF7LevelUpStatCalculator" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Armors.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Armors.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ConsoleInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UserInterfaces/Console/ClassFiles/ConsoleInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="731">
+              <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculateRangeLevels.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/CalculateRangeLevels.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="30702">
+              <caret line="1814" column="17" selection-start-line="1814" selection-start-column="17" selection-end-line="1814" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartGui.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/UserInterfaces/GUI/ClassFiles/StartGui.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="532" column="5" selection-start-line="532" selection-start-column="5" selection-end-line="532" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MateriaComboBoxRenderer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UserInterfaces/GUI/ClassFiles/MateriaComboBoxRenderer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BackgroundPanel.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UserInterfaces/GUI/ClassFiles/BackgroundPanel.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Characters.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Characters.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Weapons.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Weapons.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CalculateRangedLevelsConsoleInterface.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/UserInterfaces/Console/ClassFiles/CalculateRangedLevelsConsoleInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>80</find>
+      <find>this</find>
+      <find>finalResults</find>
+      <find>num</find>
+      <find>hpLevelUpResultRateRndOneLabel</find>
+      <find>setHpStatGridRowValues</find>
+      <find>updateAllStatGridRowLabelValues</find>
+    </findStrings>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="true" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/Main/Tests/TestsSetup.java" />
+        <option value="$PROJECT_DIR$/src/Main/Tests/RedXIIITestSuite.java" />
+        <option value="$PROJECT_DIR$/src/Main/Tests/CaitSithTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/Main/Tests/AriesTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/Main/testMe.java" />
+        <option value="$PROJECT_DIR$/src/Main/CloudTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/Main/Characters.java" />
+        <option value="$PROJECT_DIR$/src/Main/Tests/CloudTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/Main/Accessories.java" />
+        <option value="$PROJECT_DIR$/src/Main/Application/Accessories.java" />
+        <option value="$PROJECT_DIR$/src/Main/Application/Armors.java" />
+        <option value="$PROJECT_DIR$/src/Main/Application/Weapons.java" />
+        <option value="$PROJECT_DIR$/src/Main/Application/SupportMethods.java" />
+        <option value="$PROJECT_DIR$/src/Main/Application/CalculateRangeLevels.java" />
+        <option value="$PROJECT_DIR$/src/Main/Application/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Main/Application/Characters.java" />
+        <option value="$PROJECT_DIR$/src/Main/Application/Materia.java" />
+        <option value="$PROJECT_DIR$/src/Main/Application/Stats.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/CalculateRangedLevelsConsoleInterface.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/Console/CalculateRangedLevelsConsoleInterface.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/Console/ConsoleInterface.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/GUI/BackgroundPanel.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/GUI/MateriaComboBoxRenderer.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/GUI/StartGui.java" />
+        <option value="$PROJECT_DIR$/src/Application/Materia.java" />
+        <option value="$PROJECT_DIR$/src/Main/TestCalculateRangeLevels.java" />
+        <option value="$PROJECT_DIR$/src/Main/TestCalculatorExample.java" />
+        <option value="$PROJECT_DIR$/src/Main/TestCharacters.java" />
+        <option value="$PROJECT_DIR$/src/Tests/TestCharacters.java" />
+        <option value="$PROJECT_DIR$/src/Tests/AriesTestSuite.java" />
+        <option value="$PROJECT_DIR$/src/Tests/TestCalculateRangeLevels.java" />
+        <option value="$PROJECT_DIR$/src/Application/CalculateRangeLevels.java" />
+        <option value="$PROJECT_DIR$/src/Application/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Tests/ClassFiles/TestCalculatorExample.java" />
+        <option value="$PROJECT_DIR$/src/Tests/ClassFiles/RunTests.java" />
+        <option value="$PROJECT_DIR$/src/Tests/SystemPrintTests/ClassFiles/TestCalculateRangeLevels.java" />
+        <option value="$PROJECT_DIR$/src/Application/ClassFiles/Accessories.java" />
+        <option value="$PROJECT_DIR$/src/Application/ClassFiles/Armors.java" />
+        <option value="$PROJECT_DIR$/src/Application/ClassFiles/CalculateRangeLevels.java" />
+        <option value="$PROJECT_DIR$/src/Application/ClassFiles/Calculator.java" />
+        <option value="$PROJECT_DIR$/src/Application/ClassFiles/Weapons.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/Console/ClassFiles/CalculateRangedLevelsConsoleInterface.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/Console/ClassFiles/ConsoleInterface.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/GUI/ClassFiles/BackgroundPanel.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/GUI/ClassFiles/MateriaComboBoxRenderer.java" />
+        <option value="$PROJECT_DIR$/src/Application/ClassFiles/SupportMethods.java" />
+        <option value="$PROJECT_DIR$/src/UserInterfaces/GUI/ClassFiles/StartGui.java" />
+        <option value="$PROJECT_DIR$/src/Application/ClassFiles/Stats.java" />
+        <option value="$PROJECT_DIR$/src/Application/ClassFiles/Characters.java" />
+        <option value="$PROJECT_DIR$/src/Application/ClassFiles/Materia.java" />
+        <option value="$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/CharactersTestSuite.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="Bundled (Maven 3)" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1932" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <hideEmptyPackages ProjectPane="false" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Application" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UserInterfaces" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UserInterfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UserInterfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="Console" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UserInterfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="UserInterfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="GUI" type="462c0819:PsiDirectoryNode" />
+              <item name="ClassFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FF7LevelUpStatCalculator" type="462c0819:PsiDirectoryNode" />
+              <item name="SupportFiles" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FF7LevelUpStatCalculator" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="project.propCompiler" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Test" />
+    <property name="recentsLimit" value="5" />
+    <property name="dynamic.classpath" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://G:/BackupDrives/5_Jan_2016/D/Java_Projects/John_Dean_Ray_Dean_Book/FF7LevelUpStatCalculator/src/Main/CalculateRangeLevels.java" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="ClassFiles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\BackupDrives\5_Jan_2016\D\Java_Projects\John_Dean_Ray_Dean_Book\FF7LevelUpStatCalculator\SupportFiles" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="G:\BackupDrives\5_Jan_2016\D\Java_Projects\John_Dean_Ray_Dean_Book\FF7LevelUpStatCalculator\src\images" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.StartGui">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="CalculateRangedLevelsConsoleInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassFiles.CalculateRangedLevelsConsoleInterface" />
+      <module name="FF7LevelUpStatCalculator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="ConsoleInterface" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassFiles.ConsoleInterface" />
+      <module name="FF7LevelUpStatCalculator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="StartGui" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ClassFiles.StartGui" />
+      <module name="FF7LevelUpStatCalculator" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="CharactersTestSuite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FF7LevelUpStatCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ClassFiles" />
+      <option name="MAIN_CLASS_NAME" value="ClassFiles.CharactersTestSuite" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="CharactersTestSuite.testCharacterNamesArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="FF7LevelUpStatCalculator" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ClassFiles.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ClassFiles" />
+      <option name="MAIN_CLASS_NAME" value="ClassFiles.CharactersTestSuite" />
+      <option name="METHOD_NAME" value="testCharacterNamesArray" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnitTestDiscovery" factoryName="JUnit Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="FF7LevelUpStatCalculator" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNGTestDiscovery" factoryName="TestNG Test Discovery" changeList="All">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
+      <Host>localhost</Host>
+      <Port>5050</Port>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <list>
+      <item itemvalue="Application.StartGui" />
+      <item itemvalue="JUnit.CharactersTestSuite" />
+      <item itemvalue="JUnit.CharactersTestSuite.testCharacterNamesArray" />
+      <item itemvalue="Application.ConsoleInterface" />
+      <item itemvalue="Application.CalculateRangedLevelsConsoleInterface" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.StartGui" />
+        <item itemvalue="Application.CalculateRangedLevelsConsoleInterface" />
+        <item itemvalue="Application.ConsoleInterface" />
+        <item itemvalue="JUnit.CharactersTestSuite" />
+        <item itemvalue="JUnit.CharactersTestSuite.testCharacterNamesArray" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7216ee45-956b-45e1-a3c0-828b159058cc" name="Default" comment="" />
+      <created>1456359302468</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1456359302468</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CharactersTestSuite_(1) - 2018.03.23 at 09h 53m 16s.xml">
+      <configuration name="CharactersTestSuite (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharactersTestSuite_(1) - 2018.03.23 at 09h 53m 26s.xml">
+      <configuration name="CharactersTestSuite (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharactersTestSuite_(1) - 2018.03.23 at 09h 53m 56s.xml">
+      <configuration name="CharactersTestSuite (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharactersTestSuite_(1) - 2018.03.23 at 10h 08m 00s.xml">
+      <configuration name="CharactersTestSuite (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharactersTestSuite_(1) - 2018.03.23 at 10h 08m 32s.xml">
+      <configuration name="CharactersTestSuite (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharactersTestSuite_testCharacterNamesArray - 2018.04.16 at 14h 35m 55s.xml">
+      <configuration name="CharactersTestSuite.testCharacterNamesArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharactersTestSuite - 2018.04.21 at 17h 32m 11s.xml">
+      <configuration name="CharactersTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharactersTestSuite - 2018.05.01 at 22h 00m 12s.xml">
+      <configuration name="CharactersTestSuite" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharactersTestSuite_testCharacterNamesArray - 2018.05.01 at 22h 00m 17s.xml">
+      <configuration name="CharactersTestSuite.testCharacterNamesArray" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CharactersTestSuite - 2018.10.01 at 15h 07m 45s.xml">
+      <configuration name="CharactersTestSuite" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.4978678" weight="0.32900432" />
+      <window_info id="Palette&#9;" order="2" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.50835073" side_tool="true" weight="0.23864837" />
+      <window_info anchor="right" id="Maven Projects" order="7" weight="0.32995737" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49164927" weight="0.28874734" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="11" sideWeight="0.4978678" weight="0.32900432" />
+      <window_info anchor="right" id="Designer" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.246875" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="3" weight="0.25" />
+      <window_info id="UI Designer" order="5" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.38965154" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32995737" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="2" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Changes" order="10" />
+      <window_info anchor="bottom" id="Application Servers" order="8" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3273495" />
+      <window_info anchor="bottom" id="Messages" order="12" sideWeight="0.4978678" weight="0.3284055" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="54" />
+    </breakpoint-manager>
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Stats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Materia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/StartGuiTom.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Weapon.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/Armor.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/MainClass.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/JPanelWithBackground.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/TestMain.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/CalculatorDriver.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/ComboBgTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/CalculateFormulas.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/ComboBoxRenderer.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/TestMath.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/TestGui.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/testLambda.java" />
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_92/src.zip!/java/util/ArrayList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="428" selection-start-line="428" selection-end-line="428" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Main/TEst.java" />
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/guava-17.0.jar!/com/google/common/primitives/Ints.class" />
+    <entry file="jar://$PROJECT_DIR$/SupportFiles/commons-lang3-3.5/commons-lang3-3.5.jar!/org/apache/commons/lang3/ArrayUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="1509" selection-start-line="1509" selection-end-line="1509" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/VincentTestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/YuffieTestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Main/testMe.java" />
+    <entry file="file://$PROJECT_DIR$/src/UserInterfaces.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/TifaTestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/AriesTestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/RedXIIITestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/BarretTestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/CaitSithTestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/CidTestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/CloudTestSuite.java" />
+    <entry file="file://$PROJECT_DIR$/src/Tests/FunctionalTests/ClassFiles/TestCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FunctionalTests/ClassFiles/TestsSetup.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FunctionalTests/ClassFiles/TestCalculatorExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FunctionalTests/ClassFiles/TestCalculateRangeLevels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="537">
+          <caret line="436" column="71" selection-start-line="436" selection-start-column="71" selection-end-line="436" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FunctionalTests/ClassFiles/RunTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/FunctionalTests/ClassFiles/QuickTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Tests/UnitTests/ClassFiles/CharactersTestSuite.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-442">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Accessories.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Materia.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="51" selection-start-line="15" selection-start-column="51" selection-end-line="15" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Stats.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-527">
+          <caret line="11" column="41" selection-start-line="11" selection-start-column="41" selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/SupportMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="91" selection-start-line="11" selection-start-column="91" selection-end-line="11" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Weapons.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserInterfaces/GUI/ClassFiles/MateriaComboBoxRenderer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserInterfaces/GUI/ClassFiles/BackgroundPanel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="14" column="43" selection-start-line="14" selection-start-column="43" selection-end-line="14" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Characters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="27" column="68" selection-start-line="27" selection-start-column="68" selection-end-line="27" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserInterfaces/Console/ClassFiles/CalculateRangedLevelsConsoleInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserInterfaces/Console/ClassFiles/ConsoleInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="731">
+          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6664">
+          <caret line="285" column="120" lean-forward="true" selection-start-line="285" selection-start-column="120" selection-end-line="285" selection-end-column="120" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/Armors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="22" column="4" selection-start-line="22" selection-start-column="4" selection-end-line="22" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Application/ClassFiles/CalculateRangeLevels.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30702">
+          <caret line="1814" column="17" selection-start-line="1814" selection-start-column="17" selection-end-line="1814" selection-end-column="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/UserInterfaces/GUI/ClassFiles/StartGui.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="532" column="5" selection-start-line="532" selection-start-column="5" selection-end-line="532" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>FF7LevelUpStatCalculator:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FF7LevelUpStatCalculator</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-lang3-3.5</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
